@@ -1,3 +1,5 @@
 /* write your override styles here */
 
-i know of a place where you'll never bget harmed
+#wall .tag-1 {
+  display: none;
+}
